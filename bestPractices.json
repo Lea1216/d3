@@ -3,14 +3,14 @@
   "children": [
   { "name": "CourseStructure",
       "children": [
-        {"name": "GoldenRules", "size": 4000},
-        {"name": "CourseDesign", "size": 4000}
+        {"name": "GoldenRules", "size": 200},
+        {"name": "CourseDesign", "size": 200}
       ]
     },
    { "name": "Tools",
       "children": [
-        {"name": "RealTime", "size": 4000},
-        {"name": "Sharing", "size": 4000}
+        {"name": "RealTime", "size": 200},
+        {"name": "Sharing", "size": 200}
       ]
     }
   ]
