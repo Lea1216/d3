@@ -1,0 +1,17 @@
+{ 
+"name": "BestPractices",
+  "children: [
+  { "name": "CourseStructure",
+      "children: [
+        {"name": "GoldenRules", "size": 4000},
+        {"name": "CourseDesign", "size": 4000},
+      ]
+    },
+   { "name": "Tools",
+      "children: [
+        {"name": "RealTime", "size": 4000},
+        {"name": "Sharing", "size": 4000},
+      ]
+    }
+  ]
+}
