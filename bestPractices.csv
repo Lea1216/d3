@@ -1,0 +1,11 @@
+id,parentId,size
+courseStructure,
+goldenRules,courseStructure
+designProcess,courseStructure
+coreContent,goldenRules
+modules,goldenRules,20
+activation,golenRules,20
+socialInteraction,goldenRules,20
+ideation,designProcess
+development,designProcess,
+implementation,designProcess
