@@ -6,6 +6,6 @@ coreContent,goldenRules
 modules,goldenRules,20
 activation,goldenRules,20
 socialInteraction,goldenRules,20
-ideation,designProcess
-development,designProcess
-implementation,designProcess
+ideation,designProcess,20
+development,designProcess,20
+implementation,designProcess,20
