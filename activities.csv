@@ -19,7 +19,7 @@ Evaluate,Peer Evaluation,90
 Evaluate,Real Problems,70
 Evaluate,Film Analysis,10
 Evaluate,MC Questions,30
-Evaluate,Peer Evaluation,0
-Evaluate,Real Problems,100
-Evaluate,Film Analysis,0
-Evaluate,MC Questions,100
+Create,Peer Evaluation,0
+Create,Real Problems,100
+Create,Film Analysis,0
+Create,MC Questions,100
