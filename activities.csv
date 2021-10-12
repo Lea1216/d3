@@ -1,25 +1,25 @@
 group,activity,value
-Remember,PeerEvaluation,50
-Remember,RealProblems,20
-Remember,FilmAnalysis,30
-Remember,MCQuestions,90
-Understand,PeerEvaluation,20
-Understand,RealProblems,20
-Understand,FilmAnalysis,50
-Understand,MCQuestions,10
-Apply,PeerEvaluation,20
-Apply,RealProblems,80
-Apply,FilmAnalysis,20
-Apply,MCQuestions,10
-Analyze,PeerEvaluation,50
-Analyze,RealProblems,80
-Analyze,FilmAnalysis,80
-Analyze,MCQuestions,10
-Evaluate,PeerEvaluation,90
-Evaluate,RealProblems,70
-Evaluate,FilmAnalysis,10
-Evaluate,MCQuestions,30
-Evaluate,PeerEvaluation,0
-Evaluate,RealProblems,100
-Evaluate,FilmAnalysis,0
-Evaluate,MCQuestions,100
+Remember,Peer Evaluation,50
+Remember,Real Problems,20
+Remember,Film Analysis,30
+Remember,MC Questions,90
+Understand,Peer Evaluation,20
+Understand,Real Problems,20
+Understand,Film Analysis,50
+Understand,MC Questions,10
+Apply,Peer Evaluation,20
+Apply,Real Problems,80
+Apply,Film Analysis,20
+Apply,MC Questions,10
+Analyze,Peer Evaluation,50
+Analyze,Real Problems,80
+Analyze,Film Analysis,80
+Analyze,MC Questions,10
+Evaluate,Peer Evaluation,90
+Evaluate,Real Problems,70
+Evaluate,Film Analysis,10
+Evaluate,MC Questions,30
+Evaluate,Peer Evaluation,0
+Evaluate,Real Problems,100
+Evaluate,Film Analysis,0
+Evaluate,MC Questions,100
