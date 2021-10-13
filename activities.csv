@@ -1,25 +1,25 @@
 group,activity,value
-Remember,Peer Evaluation,60
-Remember,Real Problems,20
-Remember,Film Analysis,40
-Remember,MC Questions,100
-Understand,Peer Evaluation,20
-Understand,Real Problems,20
-Understand,Film Analysis,60
-Understand,MC Questions,20
-Apply,Peer Evaluation,20
-Apply,Real Problems,80
-Apply,Film Analysis,20
-Apply,MC Questions,20
-Analyze,Peer Evaluation,60
-Analyze,Real Problems,80
-Analyze,Film Analysis,80
-Analyze,MC Questions,10
-Evaluate,Peer Evaluation,100
-Evaluate,Real Problems,80
-Evaluate,Film Analysis,20
-Evaluate,MC Questions,40
-Create,Peer Evaluation,0
-Create,Real Problems,100
-Create,Film Analysis,0
-Create,MC Questions,100
+Remember,Peer Evaluation,50, Let your students evaluate their work that 
+Remember,Real Problems,50, Apply hands on real world problems in your lecture
+Remember,Film Analysis,50, Analyze failures in films
+Remember,MC Questions,100, xxxx
+Understand,Peer Evaluation,0, xxxx
+Understand,Real Problems,0, xxxx
+Understand,Film Analysis,100, xxxx
+Understand,MC Questions,50, xxxx
+Apply,Peer Evaluation,50, xxxx
+Apply,Real Problems,100, xxxx
+Apply,Film Analysis,0, xxxx
+Apply,MC Questions,0, xxxx
+Analyze,Peer Evaluation,50, xxxx
+Analyze,Real Problems,100, xxxx
+Analyze,Film Analysis,100, xxxx
+Analyze,MC Questions,0, xxxx
+Evaluate,Peer Evaluation,100, xxxx
+Evaluate,Real Problems,100, xxxx
+Evaluate,Film Analysis,0, xxxx
+Evaluate,MC Questions,50, xxxx
+Create,Peer Evaluation,0, xxxx
+Create,Real Problems,100, xxxx
+Create,Film Analysis,0, xxxx
+Create,MC Questions,100, xxxx
