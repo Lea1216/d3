@@ -1,0 +1,60 @@
+{
+  "nodes": [
+    {
+      "id": 1,
+      "name": "BestPractices"
+    },
+    {
+      "id": 2,
+      "name": "Course Structure"
+    },
+    {
+      "id": 3,
+      "name": "Tools"
+    },
+    {
+      "id": 4,
+      "name": "GoldenRules"
+    },
+    {
+      "id": 5,
+      "name": "CourseDesign"
+    },
+    {
+      "id": 6,
+      "name": "RealTime"
+    },
+    {
+      "id": 7,
+      "name": "Sharing"
+    }
+  ],
+  "links": [
+
+    {
+      "source": 1,
+      "target": 2
+    },
+    {
+      "source": 1,
+      "target": 3
+    },
+    {
+      "source": 2,
+      "target": 4
+    },
+
+    {
+      "source": 2,
+      "target": 5
+    },
+            {
+      "source": 3,
+      "target": 6
+    },
+    {
+      "source": 3,
+      "target": 7
+    }
+  ]
+}
