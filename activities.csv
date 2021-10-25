@@ -1,25 +1,25 @@
-group,activity,value,description
-Remember,Peer Evaluation,50,Let your students evaluate their work that 
-Remember,Real Problems,50,Apply hands on real world problems in your lecture
-Remember,Film Analysis,50,Analyze failures in films
-Remember,MC Questions,100,xxxx
-Understand,Peer Evaluation,0,xxxx
-Understand,Real Problems,0,xxxx
-Understand,Film Analysis,100,xxxx
-Understand,MC Questions,50,xxxx
-Apply,Peer Evaluation,50,xxxx
-Apply,Real Problems,100,xxxx
-Apply,Film Analysis,0,xxxx
-Apply,MC Questions,0,xxxx
-Analyze,Peer Evaluation,50,xxxx
-Analyze,Real Problems,100,xxxx
-Analyze,Film Analysis,100,xxxx
-Analyze,MC Questions,0,xxxx
-Evaluate,Peer Evaluation,100,xxxx
-Evaluate,Real Problems,100,xxxx
-Evaluate,Film Analysis,0,xxxx
-Evaluate,MC Questions,50,xxxx
-Create,Peer Evaluation,0,xxxx
-Create,Real Problems,100,xxxx
-Create,Film Analysis,0,xxxx
-Create,MC Questions,100,xxxx
+group,activity,value,description,"/Users/leablecher/Desktop/Toolbox/PrototypingLea/sharing.html"
+Remember,Peer Evaluation,50,Let your students evaluate their work that,"/Users/leablecher/Desktop/Toolbox/PrototypingLea/sharing.html"
+Remember,Real Problems,50,Apply hands on real world problems in your lecture,"/Users/leablecher/Desktop/Toolbox/PrototypingLea/sharing.html"
+Remember,Film Analysis,50,Analyze failures in films,"/Users/leablecher/Desktop/Toolbox/PrototypingLea/sharing.html"
+Remember,MC Questions,100,xxxx,"/Users/leablecher/Desktop/Toolbox/PrototypingLea/sharing.html"
+Understand,Peer Evaluation,0,xxxx,"/Users/leablecher/Desktop/Toolbox/PrototypingLea/sharing.html"
+Understand,Real Problems,0,xxxx,"/Users/leablecher/Desktop/Toolbox/PrototypingLea/sharing.html"
+Understand,Film Analysis,100,xxxx,"/Users/leablecher/Desktop/Toolbox/PrototypingLea/sharing.html"
+Understand,MC Questions,50,xxxx,"/Users/leablecher/Desktop/Toolbox/PrototypingLea/sharing.html"
+Apply,Peer Evaluation,50,xxxx,"/Users/leablecher/Desktop/Toolbox/PrototypingLea/sharing.html"
+Apply,Real Problems,100,xxxx,"/Users/leablecher/Desktop/Toolbox/PrototypingLea/sharing.html"
+Apply,Film Analysis,0,xxxx,"/Users/leablecher/Desktop/Toolbox/PrototypingLea/sharing.html"
+Apply,MC Questions,0,xxxx,"/Users/leablecher/Desktop/Toolbox/PrototypingLea/sharing.html"
+Analyze,Peer Evaluation,50,xxxx,"/Users/leablecher/Desktop/Toolbox/PrototypingLea/sharing.html"
+Analyze,Real Problems,100,xxxx,"/Users/leablecher/Desktop/Toolbox/PrototypingLea/sharing.html"
+Analyze,Film Analysis,100,xxxx,"/Users/leablecher/Desktop/Toolbox/PrototypingLea/sharing.html"
+Analyze,MC Questions,0,xxxx,"/Users/leablecher/Desktop/Toolbox/PrototypingLea/sharing.html"
+Evaluate,Peer Evaluation,100,xxxx,"/Users/leablecher/Desktop/Toolbox/PrototypingLea/sharing.html"
+Evaluate,Real Problems,100,xxxx,"/Users/leablecher/Desktop/Toolbox/PrototypingLea/sharing.html"
+Evaluate,Film Analysis,0,xxxx,"/Users/leablecher/Desktop/Toolbox/PrototypingLea/sharing.html"
+Evaluate,MC Questions,50,xxxx,"/Users/leablecher/Desktop/Toolbox/PrototypingLea/sharing.html"
+Create,Peer Evaluation,0,xxxx,"/Users/leablecher/Desktop/Toolbox/PrototypingLea/sharing.html"
+Create,Real Problems,100,xxxx,"/Users/leablecher/Desktop/Toolbox/PrototypingLea/sharing.html"
+Create,Film Analysis,0,xxxx,"/Users/leablecher/Desktop/Toolbox/PrototypingLea/sharing.html"
+Create,MC Questions,100,xxxx,"/Users/leablecher/Desktop/Toolbox/PrototypingLea/sharing.html"
