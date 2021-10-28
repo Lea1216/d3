@@ -1,6 +1,6 @@
 group,activity,value,description,url
-Remember,Peer Evaluation,50,Evaluating your fellow students' solutions can deepen your knowledge so that they can better remember the course content,"#peerEvaluation"
-Remember,Real Problems,50,By applying theory in the real world students can recall knowledge later on ,"#realProblems"
+Remember,Peer Evaluation,50,Evaluating your fellow students' solutions can deepen your knowledge so that they can better remember the course content,"peerevaluation.html"
+Remember,Real Problems,50,By applying theory in the real world students can recall knowledge later on ,"realproblems.html"
 Remember,Film Analysis,50,Applying theory to the analysis of small videos helps students solidify their knowledge ,"#videoAnalysis"
 Remember,MC Questions,100,When creating own questions and testing knowledge by answering the questions especially the memory of the learning material is supported,"#multipleChoice"
 Understand,Peer Evaluation,0,No contribution,"#peerEvaluation"
