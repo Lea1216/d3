@@ -1,7 +1,7 @@
 { 
 "name": "BestPractices",
   "children": [
-  { "name": "CourseStructure",color:"#BCCC9A",
+  { "name": "CourseStructure",
       "children": [
         {"name": "GoldenRules", "size": 200, color:"#BCCC9A"},
         {"name": "CourseDesign", "size": 200, color:"#BCCC9A"}
