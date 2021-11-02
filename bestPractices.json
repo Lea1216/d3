@@ -1,16 +1,16 @@
 { 
-"name": "BestPractices","color":"#BCCC9A",
+"name": "BestPractices","color":"#644380",
   "children": [
-  { "name": "CourseStructure","color":"#BCCC9A",
+  { "name": "CourseStructure","color":"#5c6394",
       "children": [
-        {"name": "GoldenRules", "size": 200, "color":"#BCCC9A"},
-        {"name": "CourseDesign", "size": 200, "color":"#BCCC9A"}
+        {"name": "GoldenRules", "size": 200, "color":"#5c6394"},
+        {"name": "CourseDesign", "size": 200, "color":"#5c6394"}
       ]
     },
-   { "name": "Tools",
+   { "name": "Tools","color":"#4d80a8",
       "children": [
-        {"name": "RealTime", "size": 200, "color":"#BCCC9A"},
-        {"name": "Sharing", "size": 200, "color":"#BCCC9A"}
+        {"name": "RealTime", "size": 200, "color":"#4d80a8"},
+        {"name": "Sharing", "size": 200, "color":"#4d80a8"}
       ]
     }
   ]
