@@ -1,5 +1,5 @@
 { 
-"name": "BestPractices",color:"#BCCC9A",
+"name": "BestPractices",
   "children": [
   { "name": "CourseStructure",color:"#BCCC9A",
       "children": [
@@ -7,7 +7,7 @@
         {"name": "CourseDesign", "size": 200, color:"#BCCC9A"}
       ]
     },
-   { "name": "Tools",color:"#BCCC9A",
+   { "name": "Tools",
       "children": [
         {"name": "RealTime", "size": 200, color:"#BCCC9A"},
         {"name": "Sharing", "size": 200, color:"#BCCC9A"}
