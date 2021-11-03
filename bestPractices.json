@@ -4,7 +4,7 @@
   { "name": "Course Structure","color":"#56A99B","description":"Description here",
       "children": [
         {"name": "Golden Rules", "size": 200, "color":"#3E989A","description":"Description here",
-        "children: [ 
+        "children": [ 
          {"name": "Course Design", "size": 100, "color":"#3E989A","description":"Description here"},
          {"name": "Course Design", "size": 100, "color":"#3E989A","description":"Description here"}
          ]
