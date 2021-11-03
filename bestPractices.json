@@ -7,10 +7,10 @@
         {"name": "Course Design", "size": 200, "color":"#3E989A"}
       ]
     },
-   { "name": "Tools","color":"#67A363",
+   { "name": "Tools","color":"#6F5B92",
       "children": [
-        {"name": "Real Time", "size": 200, "color":"#4C9455"},
-        {"name": "Sharing", "size": 200, "color":"#4C9455"}
+        {"name": "Real Time", "size": 200, "color":"#644380"},
+        {"name": "Sharing", "size": 200, "color":"#644380"}
       ]
     }
   ]
