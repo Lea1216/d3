@@ -5,6 +5,7 @@
       "children": [
         {"name": "Golden Rules", "size": 200, "color":"#3E989A","description":"Description here"},
         {"name": "Course Design", "size": 200, "color":"#3E989A","description":"Description here"}
+        {"name": "Course Design", "size": 200, "color":"#3E989A","description":"Description here"}
       ]
     },
    { "name": "Tools","color":"#6F5B92","description":"Description here",
